@@ -1,0 +1,1 @@
+grep -$1 "$2" $3/$4/*.txt > holdresultsfordickinballs.txt
